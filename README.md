@@ -8,7 +8,7 @@ Deep learning (DL) has made significant advancements in tomographic imaging, par
 #### Citation
 If our work is valuable to you, please cite our work:
 ```
-@ARTICLE{yang2023ccnet,
+@ARTICLE{yang2025tai,
   author={Yang, Ziyuan and Huangfu, Huijie and Ran, Maosong and Wang, Zhiwen and Yu, Hui and Sun, Mengyu and Zhang, Yi},
   journal={IEEE Transactions on Artificial Intelligence}, 
   title={Novel Privacy-Enhancing Framework for Low-Dose CT Denoising}, 
